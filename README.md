@@ -1,8 +1,7 @@
 # sentiment-analysis
 my training cum intern task or minor project-3
 
-<h2> ## 💻 Environment
-
+<h2> #
 - ✅ This project was developed and executed using **Google Colab**, providing an easy-to-use cloud-based Python environment with built-in support for libraries like scikit-learn, NLTK, and matplotlib.
  </h2>
 # 🎬 IMDb Sentiment Analysis using Machine Learning
